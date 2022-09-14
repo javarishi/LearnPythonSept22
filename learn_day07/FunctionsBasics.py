@@ -35,3 +35,4 @@ greet("Students")
 return_cal = all_basic_math(10,2)
 print(return_cal, type(return_cal))
 addition = return_cal[0]
+print(type(greet)) # <class 'function'>
